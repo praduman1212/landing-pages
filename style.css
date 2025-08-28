@@ -540,7 +540,7 @@ header {
     margin-left: 40px;
   }
 }
-/* Hide old testimonial styles if present */
+
 .testimonials, .testimonial-cards, .testimonial-card {
   display: none !important;
 }
